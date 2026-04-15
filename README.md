@@ -15,7 +15,9 @@ with.open(".env.example", "w") as f:
 print(".env.example created")
 
 Step 3: Configurate the ".env.example" with ".env"
+
 Step 4: Replace "your_api_key_here" with your actual API key
+
 Step 5: Save and restart the dashboard.
 
 # How to run the dashboard
