@@ -4,7 +4,7 @@ An AI Web-Dashboard for Market Trend Prediction and Inventory Intelligence
 
 # How to add your own api key
 
-Step 1: Open the "api_key.ipynb" notebook.
+Step 1: Open the "api_key.ipynb" notebook. 
 Step 2: Add the following code in a new cell.
 
 with.open(".env.example", "w") as f:
