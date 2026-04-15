@@ -10,6 +10,7 @@ Step 1: Open the "api_key.ipynb" notebook.
 Step 2: Add the following code in a new cell.
 
 with.open(".env.example", "w") as f:
+
   f.write("OPENAI_API_KEY=your_api_key_here\n")
 
 print(".env.example created")
