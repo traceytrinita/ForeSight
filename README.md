@@ -12,7 +12,7 @@ Step 2: Drag to desktop
 Step 3: Open terminal from desktop  
 
 
-Step 4: In the terminal, enter the codes “Pip install openai streamlit pandas numpy plotly” 
+Step 4: In the terminal, enter the codes “pip install openai streamlit pandas numpy plotly” 
 
 
 Step 5: Then enter “cd ForeSight” 
