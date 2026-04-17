@@ -1,6 +1,11 @@
 # ForeSight
 An AI Web-Dashboard for Market Trend Prediction and Inventory Intelligence
 
+# How to run the app locally
+
+
+
+
 
 # How to add your own api key
 
@@ -19,5 +24,5 @@ Step 4: Replace "your_api_key_here" with your actual API key
 
 Step 5: Save and restart the dashboard.
 
-# How to run the dashboard
+
 
