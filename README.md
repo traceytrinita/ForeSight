@@ -3,6 +3,22 @@ An AI Web-Dashboard for Market Trend Prediction and Inventory Intelligence
 
 # How to run the app locally
 
+Step 1: Download the file from github https://github.com/traceytrinita/ForeSight.git 
+
+
+Step 2: Drag to desktop 
+
+
+Step 3: Open terminal from desktop  
+
+
+Step 4: In the terminal, enter the codes “Pip install openai streamlit pandas numpy plotly” 
+
+
+Step 5: Then enter “cd ForeSight” 
+
+
+Step 6: Then in another line, type “Streamlit run dashboard/app.py” and you should be directed to the dashboard. 
 
 
 
