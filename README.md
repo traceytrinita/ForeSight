@@ -6,7 +6,7 @@ An AI Web-Dashboard for Market Trend Prediction and Inventory Intelligence
 Step 1: Download the file from github https://github.com/traceytrinita/ForeSight.git 
 
 
-Step 2: Drag to desktop 
+Step 2: Drag the folder to desktop 
 
 
 Step 3: Open terminal from the folder
