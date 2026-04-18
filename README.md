@@ -9,7 +9,7 @@ Step 1: Download the file from github https://github.com/traceytrinita/ForeSight
 Step 2: Drag to desktop 
 
 
-Step 3: Open terminal from desktop  
+Step 3: Open terminal from the folder
 
 
 Step 4: In the terminal, enter the codes “pip install openai streamlit pandas numpy plotly” 
